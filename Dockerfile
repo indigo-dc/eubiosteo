@@ -1,6 +1,6 @@
 FROM indigodatacloud/ubuntu-sshd:14.04
 
-MAINTAINER Miguel Caballer <micafer1@upv.es>
+MAINTAINER Miguel Caballer (UPV) <micafer1@upv.es>
 
 COPY ["playbook.yaml", "/"]
 
